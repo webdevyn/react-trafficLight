@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-trafficLight/static/css/main.553287d4.chunk.css",
+    "main.js": "/react-trafficLight/static/js/main.f95bba0b.chunk.js",
+    "main.js.map": "/react-trafficLight/static/js/main.f95bba0b.chunk.js.map",
+    "runtime~main.js": "/react-trafficLight/static/js/runtime~main.ef0539e5.js",
+    "runtime~main.js.map": "/react-trafficLight/static/js/runtime~main.ef0539e5.js.map",
+    "static/js/2.a636507f.chunk.js": "/react-trafficLight/static/js/2.a636507f.chunk.js",
+    "static/js/2.a636507f.chunk.js.map": "/react-trafficLight/static/js/2.a636507f.chunk.js.map",
+    "index.html": "/react-trafficLight/index.html",
+    "precache-manifest.335aa0ac4368a067968573d1b268dd5b.js": "/react-trafficLight/precache-manifest.335aa0ac4368a067968573d1b268dd5b.js",
+    "service-worker.js": "/react-trafficLight/service-worker.js",
+    "static/css/main.553287d4.chunk.css.map": "/react-trafficLight/static/css/main.553287d4.chunk.css.map"
+  }
+}
